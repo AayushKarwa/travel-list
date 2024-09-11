@@ -18,7 +18,7 @@ You can view a live demo of the app here: [https://travel-list-gules-two.vercel.
 
 ## Screenshots
 
-![](#) _(Add a screenshot of your app here)_
+![https://github.com/AayushKarwa/travel-list/blob/main/src/assets/demo.png?raw=true](#) 
 
 ## Getting Started
 
